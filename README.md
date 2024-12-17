@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/S23_Descriptor/workflows/Python%20Application/badge.svg?label=passingcolor=greentimestamp=1734458142)
+
 # User Profile Manager using Descriptors in Python
 
 ## Introduction
